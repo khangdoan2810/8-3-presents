@@ -54,7 +54,9 @@ html{
     background-repeat: no-repeat;
 }
 
-#content{}
+#content{
+}
+
 
 #content .content-section{
     width: 800px;
@@ -78,6 +80,12 @@ html{
     text-align: justify;
     line-height: 1.6;
 }
+
+#content .picture img{
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
 #footer{
     padding: 64px 16px;
     text-align: center;
