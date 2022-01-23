@@ -54,6 +54,11 @@ html{
     background-repeat: no-repeat;
 }
 
+.picture img{
+    height: 665px;
+    object-fit: cover;
+}
+
 #content{
 }
 
@@ -81,7 +86,7 @@ html{
     line-height: 1.6;
 }
 
-#content .picture img{
+#content .drawing img{
     margin-left: 50%;
     transform: translateX(-50%);
 }
