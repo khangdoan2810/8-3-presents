@@ -167,6 +167,16 @@ html{
 }
 
 
+#content .small-text {
+    margin-top: 25px;
+    font-size: 15px;
+    text-align: right;
+    color: #FFB6C1;
+}
+
+
+
+
 #footer {
     padding: 64px 16px;
     text-align: center;
